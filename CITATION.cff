@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use BOLTRA, please cite this software release and the underlying BoltzGen software."
+title: "BOLTRA: BoltzGen Orchestration Layer for Targeted Design and Results Analysis"
+type: software
+version: 1.0.0
+date-released: 2026-09-21
+authors:
+  - family-names: Durojaye
+    given-names: Olanrewaju Ayodeji
+license: MIT
+abstract: >-
+  BOLTRA is an independent, menu-driven orchestration, recovery, residue-mapping,
+  and post-design analysis layer for BoltzGen workflows spanning peptide,
+  cyclotide, protein-binder, protein-redesign, small-molecule-binder, nanobody,
+  and antibody design.
+keywords:
+  - protein design
+  - BoltzGen
+  - peptide design
+  - antibody design
+  - computational structural biology
