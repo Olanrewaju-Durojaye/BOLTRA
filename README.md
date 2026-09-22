@@ -143,3 +143,7 @@ Citation metadata are provided in [CITATION.cff](CITATION.cff). Until the BOLTRA
 article and archived software DOI are available, cite the GitHub release version
 and the corresponding Zenodo record. BOLTRA is distributed under the [MIT
 License](LICENSE).
+
+## Zenodo record citation
+
+Durojaye, O. A., Baammi, S., Moussaoui, M., EL HADAD, S., Alimoussa, L., Benhida, R., & Daoud, R. (2026). BOLTRA functional pilot dataset: seven-mode biomolecular design and post-design analysis [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22872771
