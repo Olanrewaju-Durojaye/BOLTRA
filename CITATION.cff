@@ -1,12 +1,11 @@
 cff-version: 1.2.0
 message: "If you use BOLTRA, please cite this software release and the underlying BoltzGen software."
-title: "BOLTRA: BoltzGen Orchestration Layer for Targeted Design and Results Analysis"
+title: "BOLTRA: BoltzGen Orchestration Layer for Targeted design and Results Analysis"
 type: software
 version: 1.0.0
 date-released: 2026-09-21
 authors:
-  - family-names: Durojaye
-    given-names: Olanrewaju Ayodeji
+  Olanrewaju Ayodeji Durojaye, Soukayna Baammi, Mohamed Moussaoui, Salaheddine EL HADAD, Loubna ALIMOUSSA, Rachid BENHIDA, Rachid Daoud
 license: MIT
 abstract: >-
   BOLTRA is an independent, menu-driven orchestration, recovery, residue-mapping,
