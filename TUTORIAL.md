@@ -442,3 +442,21 @@ Before archiving a study, retain:
 Always cite BoltzGen as the underlying design engine, cite the archived BOLTRA release,
 and describe BOLTRA as an orchestration and analysis layer rather than a generative
 model.
+
+---
+
+## For questions
+Please contact the corresponding authors:
+
+Corresponding authors:
+    Olanrewaju Ayodeji Durojaye;
+    Rachid Daoud
+
+Institution:
+    Chemical and Biochemical Sciences, Green Process Engineering,
+    University Mohammed VI Polytechnic,
+    43150 Ben Guerir, Morocco
+
+Email:
+    olanrewaju.ayodeji-durojaye-ext@um6p.ma;
+    rachid.daoud@um6p.ma
