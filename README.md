@@ -1,7 +1,6 @@
 # BOLTRA v1.0.0
 
-<img width="6000" height="3375" alt="BOLTRA_Main" src="https://github.com/user-attachments/assets/f4045ffe-77ca-4eb4-a413-f47a464b3ac4" />
-
+<img width="1983" height="793" alt="boltra-logo" src="https://github.com/user-attachments/assets/4772ab8a-9cbe-4e91-940b-5cf81e0fad53" />
 
 **BOLTRA - BoltzGen Orchestration Layer for Targeted design and Results Analysis**
 is an independent, menu-driven companion to BoltzGen. It converts common design
